@@ -6,3 +6,4 @@ class Settings(BaseSettings):
 
     ALGORITHM: str
     SECRET_KEY: str
+    DATABASE_PASSWORD: str
